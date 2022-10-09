@@ -1,0 +1,187 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+    background-color: #EDEDED;
+}
+
+h3{
+
+    font-family: 'Sacramento', cursive;
+
+    color: #FF8787;
+    font-size: 300%;
+}
+
+h2{
+    color: #FF8787;
+
+}
+
+hr{
+    margin-top: 100px;
+    border-style: dotted;
+    border-width: 7px 0 0 0;
+    width: 10%;
+    color: #E26868;
+}
+
+a{
+    text-decoration: none;
+    color:#EDEDED ;
+    font-size: 150%;
+    font-family: 'Montserrat', sans-serif;
+    
+    margin:200px;
+    
+}
+
+a:hover{
+    color: #E26868;
+}
+
+.top-container{
+    background-color: #FFF5E4;
+    height: 750px;
+    
+}
+
+.yukinon{
+    scale: 60%;
+    position: relative;
+    right:13%;
+    bottom:155px;
+}
+
+.welcome{
+    text-align: center;
+}
+
+.links{
+    height: 40px;
+    background-color: #FF8787;
+    padding-top: 10px;
+}
+
+
+
+
+
+.mission{
+    text-decoration:underline;
+    text-align: center;
+    position: relative;
+    right:370px;
+    font-size: 300%;
+    padding-left: 100px;
+    padding-top: 100px;
+
+}
+
+.coffee-gif{
+    scale: 80%;
+    float: left;
+    padding-left: 100px;
+}
+
+.mission-desc{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    width: 80%;
+    position: relative;
+    left:30px;
+    color: #D58BDD;
+}
+
+.meet{
+    text-decoration: underline;
+    text-align: center;
+    position: relative;
+    right:470px;
+    font-size: 200%;
+    padding-left: 0px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.tohru{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 200px;
+    float: left;
+}
+
+.tohru-desc{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    width: 80%;
+    position: relative;
+    left: 350px;
+    color: #D58BDD;
+    padding-bottom: 220px;
+}
+
+.azunyan{
+    width: 200px;
+    height: 300px;
+    float: right;
+    position: relative;
+    right: 400px;
+}
+
+.azun{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    width: 80%;
+    position: relative;
+    left:250px;
+    color: #D58BDD;
+    padding-bottom: 300px;
+    padding-top: 50px;
+}
+
+.astolfo{
+    width: 200px;
+    height: 300px;
+    position: relative;
+    left: 200px;
+    float: left;
+}
+
+.asto{
+    padding-top: 40px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    width: 80%;
+    position: relative;
+    left: 380px;
+    color: #D58BDD;
+    padding-bottom: 240px;
+}
+.invite{
+    
+    text-align: center;
+    position: relative;
+    right:470px;
+    font-size: 200%;
+    padding-top: 100px;
+
+}
+
+.leaving{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    width: 60%;
+    position: relative;
+    left:180px;
+    color: #D58BDD;
+
+}
+
+.bottom-container{
+    margin-top: 80px;
+    height: 150px;
+    background-color: #FF8787;
+    padding: 80px;
+    padding-left: 180px;
+}
